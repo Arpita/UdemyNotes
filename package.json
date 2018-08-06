@@ -1,0 +1,15 @@
+{
+  "name": "notesdev",
+  "version": "1.0.0",
+  "description": "Notes project on Udemy course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arpita Bahuguna",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "yargs": "^12.0.1"
+  }
+}
